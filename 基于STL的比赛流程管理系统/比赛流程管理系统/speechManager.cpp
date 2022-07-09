@@ -10,6 +10,9 @@ SpeechManager::SpeechManager()
 	//创建选手
 	this->createSpeaker();
 
+	//加载往届记录
+	this->loadRecord();
+
 }
 
 //展示菜单

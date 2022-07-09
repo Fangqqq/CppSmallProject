@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="speaker.cpp" />
     <ClCompile Include="speechManager.cpp" />
     <ClCompile Include="基于STL的比赛流程管理系统.cpp" />
   </ItemGroup>
